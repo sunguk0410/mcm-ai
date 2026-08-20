@@ -1,12 +1,18 @@
-# MCM AI Journey — AI
+# Closer — AI
 
 > 고객보다 한발 먼저 취향을 이해하고, 다음 방문까지 기억하는 Interactive Retail Experience
 <img width="1920" height="1080" alt="12" src="https://github.com/user-attachments/assets/b76a8c64-bd3b-421e-a465-0646d13ae926" />
 
+## Demo
 
-MCM HAUS 청담의 오프라인 쇼핑 경험을 개인화하기 위한 **AI Recommendation & Computer Vision 모듈**입니다.
+* MCM Storefront: https://www.mcm-showcase.com
+* AR Fitting: https://www.mcm-showcase.com/ar
+* Digital Closet: https://www.mcm-showcase.com/#closet
+* Swagger: https://api.mcm-showcase.com/swagger-ui/index.html
 
-매장 카메라를 통해 고객의 동선과 체류 정보를 수집하고, AR Fitting 과정에서 발생한 상품 선택·피팅·위시리스트 행동을 함께 활용하여 고객 맞춤형 상품을 추천합니다.
+## 서비스 배경
+
+럭셔리 매장의 고객은 각자 다른 동선과 관심 상품을 가지고 매장을 탐색합니다. 하지만 기존 오프라인 쇼핑에서는 고객이 어떤 공간에 오래 머물렀는지, 어떤 상품을 비교했는지, 무엇을 피팅하고 찜했는지와 같은 행동이 구매하지 않는 순간 대부분 사라집니다.
 
 ## 주요 기능
 
