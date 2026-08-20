@@ -10,6 +10,10 @@
 * Digital Closet: https://www.mcm-showcase.com/my-closet
 * Swagger: https://api.mcm-showcase.com/swagger-ui/index.html
 
+<img width="1780" height="1187" alt="image" src="https://github.com/user-attachments/assets/9e3c81a4-3aff-4617-8443-9150773b9d9c" />
+<img width="1780" height="1187" alt="image" src="https://github.com/user-attachments/assets/4a0c30d3-3963-42c7-aa28-35e0ccfd9dd0" />
+<img width="1780" height="1236" alt="image" src="https://github.com/user-attachments/assets/143e29bd-57b8-4dd8-9330-66abd8643d1f" />
+
 ## 서비스 배경
 
 럭셔리 매장의 고객은 각자 다른 동선과 관심 상품을 가지고 매장을 탐색합니다. 하지만 기존 오프라인 쇼핑에서는 고객이 어떤 공간에 오래 머물렀는지, 어떤 상품을 비교했는지, 무엇을 피팅하고 찜했는지와 같은 행동이 구매하지 않는 순간 대부분 사라집니다.
