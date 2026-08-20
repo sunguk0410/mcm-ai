@@ -1,13 +1,13 @@
 # Closer — AI
 
-> 고객보다 한발 먼저 취향을 이해하고, 다음 방문까지 기억하는 Interactive Retail Experience
+> 고객보다 한발 먼저 취향을 이해하고, 다음 방문까지 기억하는 Personalized Retail Experience
 <img width="1920" height="1080" alt="12" src="https://github.com/user-attachments/assets/b76a8c64-bd3b-421e-a465-0646d13ae926" />
 
 ## Demo
 
 * MCM Storefront: https://www.mcm-showcase.com
 * AR Fitting: https://www.mcm-showcase.com/ar
-* Digital Closet: https://www.mcm-showcase.com/#closet
+* Digital Closet: https://www.mcm-showcase.com/my-closet
 * Swagger: https://api.mcm-showcase.com/swagger-ui/index.html
 
 ## 서비스 배경
