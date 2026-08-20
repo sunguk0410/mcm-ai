@@ -144,5 +144,5 @@ AI 서버는 추천과 추론에 집중하고, Spring Backend는 고객 세션�
 | --------------- | -------- |
 | Product Manager | 이영서, 김민주 |
 | Designer        | 홍지영      |
-| Frontend        | 박서연, 조연우 |
-| Backend         | 강성욱      |
+| Frontend developer | 박서연, 조연우 |
+| Backend developer  | 강성욱      |
